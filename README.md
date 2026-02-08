@@ -153,13 +153,6 @@ Weak Spots: Myntra Festive Edit underperforms on X (3.2% ER); low redemption on 
 
 
 
-
-
-
-
-
-
-
 CampaignUplift %Avg ER DuringBudgetPostsSpend/PostROI InsightFashion Upgrade+9.112.9%$160K85$1,882High; focus on Instagram.End of Season Sale+6.211.8%$180K92$1,957Medium; optimize YouTube.Myntra Festive Edit+7.513.2%$220K78$2,821Low on X; add video tie-ins.Style Revolution+8.312.4%$200K45$4,444Strong; scale hashtags.
 Actionable: Limit hashtags to 2/post; run A/B tests for Festive Edit on Facebook (target: +10% uplift). Track weekly growth to adjust mid-campaign.
 Business Impact
@@ -171,6 +164,28 @@ Future Extensions: Integrate Google Analytics for conversion tracking; automate 
 These insights position Myntra to enhance festive campaigns, driving 20% more traffic to app/site.
 
 
+Images from the project:---IMPACTFUL INSIGHTS!
+
+
+
+<img width="1920" height="990" alt="Screenshot (363)" src="https://github.com/user-attachments/assets/96ad8516-a7fd-46e4-a00f-5189032a1af5" />
+<img width="1920" height="990" alt="Screenshot (362)" src="https://github.com/user-attachments/assets/8a42f021-715a-4e29-a030-c1ea90f7cf0e" />
+<img width="1920" height="997" alt="Screenshot (361)" src="https://github.com/user-attachments/assets/53f8feba-4dd6-4e37-803b-afb78eba4263" />
+<img width="1920" height="990" alt="Screenshot (360)" src="https://github.com/user-attachments/assets/6ea2fa6c-2ed4-43c4-9405-295daf923656" />
+<img width="1920" height="1000" alt="Screenshot (359)" src="https://github.com/user-attachments/assets/90c43ebf-d7f3-40b1-9c5c-c248637f4217" />
+<img width="1920" height="1007" alt="Screenshot (358)" src="https://github.com/user-attachments/assets/1109ac0d-b1e2-424a-baee-4e43450f0207" />
+<img width="1920" height="986" alt="Screenshot (357)" src="https://github.com/user-attachments/assets/54386f7f-994b-4fa7-972d-060a370968ef" />
+<img width="1920" height="993" alt="Screenshot (356)" src="https://github.com/user-attachments/assets/e1e1007e-6fa6-4c72-8222-564ed1bf6a7e" />
+<img width="1920" height="990" alt="Screenshot (355)" src="https://github.com/user-attachments/assets/4b2ece70-017e-4361-b5ab-44c90655327b" />
+<img width="1920" height="1021" alt="Screenshot (354)" src="https://github.com/user-attachments/assets/fcdf845a-5631-4a94-a069-c9b64ae33bfd" />
+<img width="1903" height="1004" alt="Screenshot (353)" src="https://github.com/user-attachments/assets/0742bfa3-1bdb-43c4-8534-da0de1ba8445" />
+
+
+
+
+
+
+
 
 
 
@@ -178,6 +193,5 @@ These insights position Myntra to enhance festive campaigns, driving 20% more tr
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishav0542&show_icons=true&locale=en&layout=compact" alt="rishav0542" /></p>
 
-# Ms-Excel-Data-Analysis-projects
-All of the data analysis  projects that i have been through and completed in MS EXCEL.
+
 
